@@ -5,6 +5,7 @@ The project aims to conduct a thorough analysis of Airbnb, a leading online mark
 
 # Data Sources:
 Primary data sources for this project include Airbnb datasets obtained in Excel format. These datasets serve as the foundation for the subsequent stages of data processing and analysis.
+lien :(http://insideairbnb.com/)
 
 # Data Cleaning:
 The initial phase involves data cleaning using Power BI, a powerful business analytics tool. Data inconsistencies, missing values, and outliers are addressed to ensure the quality and reliability of the dataset. Power BI's intuitive interface and extensive data transformation capabilities streamline the cleaning process.
